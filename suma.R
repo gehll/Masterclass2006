@@ -1,8 +1,10 @@
-# Mi primer archivo
+# Mi primer file
+#Conflictos rama 2
 # cambios en rama 1
 
 
-suma <- function(a, b, c, d){
-  d <- b+c
+suma <- function(a, e, c, d){
+  d <- e+c
+  
   return(a+d)
 }
